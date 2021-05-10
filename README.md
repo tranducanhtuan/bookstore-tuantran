@@ -101,7 +101,7 @@ All CRUD APIs ran successfully in my side, so they are ready to release:
   + Create
   + Find: by author name.
   + Update
-  + Delete: you can not delete an author if some book still refer to it.
+  + Delete: you will receive an error message if trying to delete an author which some book still refer to.
 - Book:
   + Create
   + Find: by book title and author name (it's up to you).
