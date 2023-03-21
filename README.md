@@ -1,6 +1,7 @@
 # bookstore-tuantran
 
 ## Table of contents
+- [Requirement](#requirement)
 - [1. Techstack](#1-techstack)
   * [1.1. DB](#11-db)
   * [1.2. Backend](#12-backend)
@@ -24,6 +25,20 @@
 
 <small><i><a href='http://ecotrust-canada.github.io/markdown-toc/'>Table of contents generated with markdown-toc</a></i></small>
 
+
+## Requirement:
+Create an Simple Back-end Application using Java - Spring Boot that includes:
+- Persistent storage contain books and authors.
+- CRUD API.
+- API to search book by author name (using like search).
+
+Development style:
+- Code very carefully and detail oriented.
+- Code for user centric such as validation, error message.
+- Code with concept of Atomic design.
+- Code with concept of Object / Common Component.
+- Code CRUD well.
+- Set up DB logically.
 
 ## 1. Techstack
 ### 1.1. DB
